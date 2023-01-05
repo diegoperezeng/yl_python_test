@@ -1,0 +1,1 @@
+This repository exists with the objective to show people that I coach the sintax of Python.
